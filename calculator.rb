@@ -1,11 +1,6 @@
 # Add your variables here
-def first_number
-  puts 0
-end
-
-def second_number
-  puts 1
-end
+first_number = 0
+second_number = 1
 
 def sum 
   puts first_number + second_number
