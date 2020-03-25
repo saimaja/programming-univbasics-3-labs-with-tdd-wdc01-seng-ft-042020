@@ -3,4 +3,4 @@ def first_number
   puts n 
 end
 
-first
+first_number
