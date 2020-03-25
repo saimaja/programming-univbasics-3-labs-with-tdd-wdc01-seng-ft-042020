@@ -1,10 +1,8 @@
 # Add your variables here
 first_number = 3
 second_number = 1
+sum = first_number + second_number
 
-def sum 
-  puts (first_number + second_number)
-end 
 
 def difference
   puts (first_number - second_number)
