@@ -16,9 +16,9 @@ def difference
 end
 
 def product
-  puts (first_number*second_number)
+  puts (first_number * second_number)
 end
 
 def quotient
-  puts (first_number%second_number)
+  puts (first_number % second_number)
 end
